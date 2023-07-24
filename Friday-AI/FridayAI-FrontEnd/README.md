@@ -1,0 +1,1 @@
+Go to the "fridayai-ui" folder and run command "npm install"

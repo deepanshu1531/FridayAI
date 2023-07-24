@@ -1,0 +1,24 @@
+0 Microsoft David - English (United States)
+1 Microsoft Ravi - English (India)
+2 Microsoft Heera - English (India)
+3 Microsoft Mark - English (United States)
+4 Microsoft Zira - English (United States)
+5 Google Deutsch
+6 Google US English
+7 Google UK English Female
+8 Google UK English Male
+9 Google español
+10 Google español de Estados Unidos
+11 Google français
+12 Google हिन्दी
+13 Google Bahasa Indonesia
+14 Google italiano
+15 Google 日本語
+16 Google 한국의
+17 Google Nederlands
+18 Google polski
+19 Google português do Brasil
+20 Google русский
+21 Google 普通话（中国大陆）
+22 Google 粤語（香港）
+23 Google 國語（臺灣）
